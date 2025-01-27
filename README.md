@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cagdasdostum
-- 🌱 I’m currently learning oop, javascript
+- 🌱 I’m currently learning oop, javascript, c#
 - 📫 https://www.linkedin.com/in/%C3%A7a%C4%9Fda%C5%9F-%C3%A7alay%C4%B1r-6b278a2a3/ you can contact with me here
 
 <!---
